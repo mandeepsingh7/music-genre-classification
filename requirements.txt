@@ -6,3 +6,6 @@ torchaudio
 librosa
 matplotlib
 scipy
+scikit-learn
+xgboost
+seaborn
