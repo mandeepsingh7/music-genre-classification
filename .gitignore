@@ -161,3 +161,4 @@ cython_debug/
 
 # Data
 raw_data/
+notebook/data/mel_features.npz
