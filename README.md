@@ -109,7 +109,7 @@ Below is a detailed description of each file and its function:
 
 ## Notes
 
-- Ensure that you have all the necessary dependencies listed in 'requirements.txt' installed before running the notebooks.
+- Ensure that you have all the necessary dependencies listed in `requirements.txt` installed before running the notebooks.
 - For training deep learning models on Kaggle, ensure that you have access to Kaggle's GPU resources.
 
 Feel free to explore each notebook and modify the code as needed for your specific use case.
